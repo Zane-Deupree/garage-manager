@@ -16,6 +16,9 @@
       "react-table-v6": "^6.8.6",
       "styled-components": "^5.2.0"
     },
+    "engines": {
+        "node": "12.18.3"
+    },
     "scripts": {
       "start": "set PORT=8000 && react-scripts start",
       "build": "react-scripts build",
